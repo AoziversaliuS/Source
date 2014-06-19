@@ -1,0 +1,26 @@
+
+select.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bG
+  rotate: false
+  xy: 1, 157
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 1, 1
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: 0
+btn
+  rotate: false
+  xy: 1283, 723
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: 1
