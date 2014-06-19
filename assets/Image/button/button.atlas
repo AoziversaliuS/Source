@@ -1,0 +1,61 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btnLeft
+  rotate: false
+  xy: 1, 103
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: 0
+btnLeft
+  rotate: false
+  xy: 203, 103
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: 1
+btnAttack
+  rotate: false
+  xy: 405, 93
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+btnAttack
+  rotate: false
+  xy: 557, 93
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+btnJump
+  rotate: false
+  xy: 709, 93
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+btnJump
+  rotate: false
+  xy: 861, 93
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+btnPass
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 0
+btnPass
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 1
