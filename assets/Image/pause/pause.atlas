@@ -1,0 +1,61 @@
+
+pause.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btnExit
+  rotate: false
+  xy: 1, 322
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 0
+btnExit
+  rotate: false
+  xy: 1, 215
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 1
+btnResume
+  rotate: false
+  xy: 286, 322
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 0
+btnResume
+  rotate: false
+  xy: 1, 108
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 1
+btnToMain
+  rotate: false
+  xy: 286, 215
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 0
+btnToMain
+  rotate: false
+  xy: 571, 322
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 1
+btnToSelect
+  rotate: false
+  xy: 1, 1
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 0
+btnToSelect
+  rotate: false
+  xy: 286, 108
+  size: 283, 105
+  orig: 283, 105
+  offset: 0, 0
+  index: 1
