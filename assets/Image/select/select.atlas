@@ -38,3 +38,17 @@ btn
   orig: 150, 150
   offset: 0, 0
   index: 1
+pagePoint
+  rotate: false
+  xy: 203, 220
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+pagePoint
+  rotate: false
+  xy: 1485, 942
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
