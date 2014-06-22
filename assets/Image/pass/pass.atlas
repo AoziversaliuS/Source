@@ -1,0 +1,33 @@
+
+pass.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nextBtn
+  rotate: false
+  xy: 1, 108
+  size: 300, 105
+  orig: 300, 105
+  offset: 0, 0
+  index: 0
+nextBtn
+  rotate: false
+  xy: 1, 1
+  size: 300, 105
+  orig: 300, 105
+  offset: 0, 0
+  index: 1
+restartBtn
+  rotate: false
+  xy: 303, 108
+  size: 300, 105
+  orig: 300, 105
+  offset: 0, 0
+  index: 0
+restartBtn
+  rotate: false
+  xy: 303, 1
+  size: 300, 105
+  orig: 300, 105
+  offset: 0, 0
+  index: 1
