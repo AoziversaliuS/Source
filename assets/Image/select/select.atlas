@@ -38,6 +38,13 @@ btn
   orig: 150, 150
   offset: 0, 0
   index: 1
+btn
+  rotate: false
+  xy: 1283, 571
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
 pagePoint
   rotate: false
   xy: 203, 220
