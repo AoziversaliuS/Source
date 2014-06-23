@@ -1,0 +1,26 @@
+
+start.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+startBg
+  rotate: false
+  xy: 1, 138
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+startBtnA
+  rotate: false
+  xy: 1, 1
+  size: 334, 135
+  orig: 334, 135
+  offset: 0, 0
+  index: -1
+startBtnB
+  rotate: false
+  xy: 1283, 723
+  size: 334, 135
+  orig: 334, 135
+  offset: 0, 0
+  index: -1
