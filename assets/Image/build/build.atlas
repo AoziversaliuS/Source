@@ -5,92 +5,92 @@ filter: Nearest,Nearest
 repeat: none
 land
   rotate: false
-  xy: 1, 110
+  xy: 1, 142
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 0
 land
   rotate: false
-  xy: 1, 1
+  xy: 1, 33
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 1
 land
   rotate: false
-  xy: 110, 110
+  xy: 110, 142
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 2
 land
   rotate: false
-  xy: 110, 1
+  xy: 110, 33
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 3
 land
   rotate: false
-  xy: 219, 110
+  xy: 219, 142
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 4
 land
   rotate: false
-  xy: 219, 1
+  xy: 219, 33
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 5
 land
   rotate: false
-  xy: 328, 110
+  xy: 328, 142
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 6
 land
   rotate: false
-  xy: 328, 1
+  xy: 328, 33
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 7
 land
   rotate: false
-  xy: 437, 110
+  xy: 437, 142
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: 8
 door
   rotate: false
-  xy: 437, 29
+  xy: 437, 61
   size: 67, 79
   orig: 67, 79
   offset: 0, 0
   index: -1
 moveLand
   rotate: false
-  xy: 546, 167
+  xy: 546, 199
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: 0
 moveLand
   rotate: false
-  xy: 546, 115
+  xy: 546, 147
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: 1
 thorn
   rotate: false
-  xy: 598, 167
-  size: 50, 50
-  orig: 50, 50
+  xy: 1, 1
+  size: 30, 30
+  orig: 30, 30
   offset: 0, 0
   index: -1
